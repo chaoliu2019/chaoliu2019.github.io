@@ -34,14 +34,14 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>
 <div>
 
-<a name="contacts"></a>
+<!--<a name="contacts"></a>
 <h2 style="text-align:left">Contacts</h2>
 <div>
 <!--<p><span>Phone:  </span></p>-->
-<p>Office: Math center 805, Qiming Biulding</p>
-</div>
-
-<p style="text-align:left">E-mail:&nbsp;<a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>
+<!--<p>Office: Math center 805, Qiming Biulding</p>
+</div>-->
+<!--
+<p style="text-align:left">E-mail:&nbsp;<a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>-->
 
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
