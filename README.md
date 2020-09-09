@@ -89,7 +89,6 @@ I received my PhD degree from Monash University in 2017 working with Prof. Todd 
 <li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, Monash University, 22nd February 2016 - 26th February 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>-->;</li>
 <li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016;</li>
 <li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014.</li>
-<div><br>
 </div>
 <div>
 
