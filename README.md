@@ -39,8 +39,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
 
-<ol><li style="text-align:left">Mathematical General Relativity; Cosmology; Partial differential equations; Hyperbolic equations; A-harmonic equations </li>
-</ol>
+<li style="text-align:left">Mathematical General Relativity; Cosmology; Partial differential equations; Hyperbolic equations; A-harmonic equations </li>
 </div>
 <div>
 
