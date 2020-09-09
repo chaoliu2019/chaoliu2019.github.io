@@ -56,9 +56,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">(with Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;Communications in Mathematical Physics; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
 </ol>
 <h4 style="text-align:left">Quasiregular mappings and Elliptic PDEs:</h4>
-<ol><li style="text-align:left">Hongya Gao, Chao Liu, Hong Tian, A Generalization of Exponential Class and Its Applications, Abstract and Applied Analysis. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
-<li style="text-align:left">Hongya Gao, Chao Liu, Hong Tian, Remarks on a Paper by Leonetti and Siepe, Journal of Mathematical Analysis and Applications. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">Link</a></li>
-<li style="text-align:left">Hongya Gao, Chao Liu, Junwei Li, Hölder Continuity and Differentiability Almost Everywhere of (K 1 ,K 2 )-Quasiregular Mappings, Acta Mathematica Sinica Chinese Series，2012,55(4), 721-726.&nbsp;<a href="https://drive.google.com/open?id=0B5o-Xm1AWaISOUdEcjJzZ21XM2s">English version.pdf</a>,&nbsp;<a href="http://123.57.41.99/Jwk_sxxb_cn//CN/article/downloadArticleFile.do?attachType=PDF&amp;id=21741">Chinese version.pdf</a></li>
+<ol><li style="text-align:left"> (With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications, Abstract and Applied Analysis. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
+<li style="text-align:left">(With Hongya Gao, Hong Tian) Remarks on a Paper by Leonetti and Siepe, Journal of Mathematical Analysis and Applications. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">Link</a></li>
+<li style="text-align:left">(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K 1 ,K 2 )-Quasiregular Mappings, Acta Mathematica Sinica Chinese Series，2012,55(4), 721-726.&nbsp;<a href="https://drive.google.com/open?id=0B5o-Xm1AWaISOUdEcjJzZ21XM2s">English version.pdf</a>,&nbsp;<a href="http://123.57.41.99/Jwk_sxxb_cn//CN/article/downloadArticleFile.do?attachType=PDF&amp;id=21741">Chinese version.pdf</a></li>
 </ol>
 <h4>PhD Thesis:&nbsp;</h4>
 <div>Cosmological Newtonian Limits on Large Scales, Ph.D. Thesis (2018), Monash University, Melbourne, Australia, available on <a href="https://figshare.com/articles/Cosmological_Newtonian_Limits_on_Large_Scales/5903833">figshare</a>, 216 pages.&nbsp;<br>
@@ -83,17 +83,16 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, Monash University, 20th, September 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISNGkzSTAxazVmMXM">Manuscript.pdf</a>-->;&nbsp;</li>
 <li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, Monash University, 22nd February 2016 - 26th February 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>-->;</li>
 <li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016</li>
-<li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014;</li>
+<li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014.</li>
 <div>
 
 
 <a name="teaching"></a>
 <h2 style="text-align:left">Teaching</h2>
 <ol>
-<div> Minicourse on Sobolev Spaces, January, 2020 </div>
-<div><br>
-</div>
-<div> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</div>
+<li style="text-align:left"> Minicourse on Sobolev Spaces, January, 2020;</li>
+<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
+<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
 <div><br>
 </div>
 
