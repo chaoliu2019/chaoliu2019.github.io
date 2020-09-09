@@ -12,6 +12,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div><font color="#298cca">Wuhan, Hubei Province, </font></div>
 <div><font color="#298cca">China</font></div>
 <div><font color="#298cca"><br>
+<p>Office: Math center 805, Qiming Biulding</p>
+</div>
+<p style="text-align:left">E-mail:&nbsp;<a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>
 </font></div>
 <div><font color="#298cca"><br>
 </font></div>
@@ -43,7 +46,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
 
-<li style="text-align:left">Mathematical General Relativity; Partial differential equations; Hyperbolic equations; Cosmology; A-harmonic equations </li>
+<p>Mathematical General Relativity; Partial differential equations; Hyperbolic equations; Cosmology; A-harmonic equations </p>
 </div>
 <div>
 
