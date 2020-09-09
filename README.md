@@ -1,28 +1,3 @@
-<html>
-  <head>
-    <title>Chao Liu's Home Page</title>
-    <meta http-equiv="Content-Language" content="en-us">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-    <style type="text/css">
-      body {
-        margin: auto;
-        padding: auto;
-        width: 1024px;
-
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 15px;
-        line-height: 1.4em;
-      }
-
-      img { vertical-align: bottom; }
-  
-      a {  color: #008cba; text-decoration: none; }
-
-      li { margin-bottom: 15px; }
-    </style> 
-  </head>
-
   <body bgcolor="#ffffff">
     <table border="0">
       <tbody>
