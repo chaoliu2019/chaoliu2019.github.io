@@ -49,14 +49,11 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="publications"></a>
 
 <h2 style="text-align:left">Publications and Projects</h2>
-<h4 style="text-align:left">Mathematical General Relativity, Euler-Poisson system and Hyperbolic PDEs:</h4>
 <ol><li style="text-align:left"> Blowups of Large  Irregularly-shaped Expanding Molecular Clouds Determined by Euler--Poisson System with Diffuse Boundary. in preparation.</li>
 <li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. to appear in Annales Henri Poincaré <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp; (54 Pages).</li>
 <li style="text-align:left">(with Todd Oliynyk) Newtonian Limits of Isolated Cosmological Systems on Long Time Scales, Annales Henri Poincaré, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
 <li style="text-align:left">(with Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;Communications in Mathematical Physics; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
-</ol>
-<h4 style="text-align:left">Quasiregular mappings and Elliptic PDEs:</h4>
-<ol><li style="text-align:left"> (With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications, Abstract and Applied Analysis. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
+<li style="text-align:left"> (With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications, Abstract and Applied Analysis. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
 <li style="text-align:left">(With Hongya Gao, Hong Tian) Remarks on a Paper by Leonetti and Siepe, Journal of Mathematical Analysis and Applications. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">Link</a></li>
 <li style="text-align:left">(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K 1 ,K 2 )-Quasiregular Mappings, Acta Mathematica Sinica Chinese Series，2012,55(4), 721-726.&nbsp;<a href="https://drive.google.com/open?id=0B5o-Xm1AWaISOUdEcjJzZ21XM2s">English version.pdf</a>,&nbsp;<a href="http://123.57.41.99/Jwk_sxxb_cn//CN/article/downloadArticleFile.do?attachType=PDF&amp;id=21741">Chinese version.pdf</a></li>
 </ol>
@@ -88,9 +85,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 
 <a name="teaching"></a>
+
 <h2 style="text-align:left">Teaching</h2>
-<ol>
-<li style="text-align:left"> Minicourse on Sobolev Spaces, January, 2020;</li>
+<ol><li style="text-align:left"> Minicourse on Sobolev Spaces, January, 2020;</li>
 <li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
 <div><br>
