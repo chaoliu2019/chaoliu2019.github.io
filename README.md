@@ -18,7 +18,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 <font face="Times New Roman, serif"> 
 <div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at&nbsp;</span></span><span style="background-color:transparent"><span style="font-size:18.6667px">Center for Mathematical Sciences, Huazhong University of Science and Technology</span>
-<div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="file:///E:/Pictures/Camera%20Roll/ID.jpg" imageanchor="1"><img border="0" height="320" src="file:///E:/Pictures/Camera%20Roll/ID.jpg" width="232"></a></div>
+<div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="E:/Pictures/Camera%20Roll/ID.jpg" imageanchor="1"><img border="0" height="320" src="E:/Pictures/Camera%20Roll/ID.jpg" width="232"></a></div>
  </span></div>
  </font>
 <div style="text-align:left"><br>
