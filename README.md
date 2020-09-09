@@ -24,7 +24,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 </div>
 <font face="Times New Roman, serif"> 
-<div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at Center for Mathematical Sciences, Huazhong University of Science and Technology since October 2019. I received my PhD degree from Monash University in 2017 working with Prof. Todd A. Oliynyk and worked at International Center for Mathematical Research (BICMR) of Peking University as a postdoctoral fellow, working with Prof. Gang Tian, until September 2019.  
+<div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at Center for Mathematical Sciences, Huazhong University of Science and Technology since October 2019. I received my PhD degree from Monash University in 2017 working with Prof. Todd A. Oliynyk and worked at International Center for Mathematical Research (BICMR) of Peking University as a postdoctoral fellow, working with Prof. Gang Tian, until September 2019.   
  </span></div>
  </font>
 <div style="text-align:left"><br>
