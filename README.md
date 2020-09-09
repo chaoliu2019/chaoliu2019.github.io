@@ -70,7 +70,6 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <h2 style="text-align:left">Talks</h2>
 <ol>
 <li style="text-align:left"> Stability of FLRW metric for polytropic (Makino) fluids, Institut Mittag-Leffler, Djursholm, Sweden, 03, December, 2019;</li>
-</ol>
 <li style="text-align:left"> Cosmological Newtonian limits, Workshop on PDEs and harmonic analysis, Institute of Applied Physics and Computational Mathematics, Beijing, China, 13th, July, 2019;</li>
 <li style="text-align:left">How a Star is Born: Makino’s conjecture and freely falling boundary problem, Workshop on PDEs and mathematical physics 2019, Guizhou Minzu University, Guiyang, China, 12th, May, 2019;</li>
 <li style="text-align:left">Some aspects of Einstein-Euler equatons, Center for Mathematical Sciences, Huazhong University of Science and Technology, Wuhan, China, 15th, December, 2018;</li>
@@ -80,9 +79,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <br style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px"> </li>
 <li style="text-align:left">Cosmological Newtonian limits on large scales, BICMR, Peking University, Beijing, China, 27th, December, 2017;</li>
 <li style="text-align:left">Cosmological Newtonian limits on large scales, Xiamen University, Xiamen, China, 19th, September, 2017;&nbsp;</li>
-<li style="text-align:left">Long time cosmological Newtonian limits, &nbsp;The 60th annual meeting of the AustMS, Australian National University, Canberra, Australia, 7th, December, 2016.&nbsp;<a href="https://drive.google.com/open?id=0B5o-Xm1AWaISY29BZzZ1RFhqUFU">Slides.pdf</a></li>
-<li style="text-align:left">A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, Monash University, 20th, September 2016. <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISNGkzSTAxazVmMXM">Manuscript.pdf</a>;&nbsp;</li>
-<li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, Monash University, 22nd February 2016 - 26th February 2016. <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>;</li>
+<li style="text-align:left">Long time cosmological Newtonian limits, &nbsp;The 60th annual meeting of the AustMS, Australian National University, Canberra, Australia, 7th, December, 2016.&nbsp;<!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISY29BZzZ1RFhqUFU">Slides.pdf</a>--></li>
+<li style="text-align:left">A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, Monash University, 20th, September 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISNGkzSTAxazVmMXM">Manuscript.pdf</a>-->;&nbsp;</li>
+<li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, Monash University, 22nd February 2016 - 26th February 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>-->;</li>
 <li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016</li>
 <li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014;</li>
 <div>
@@ -90,7 +89,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 <a name="teaching"></a>
 
-<h2>Visiting&nbsp;</h2>
+<!--<h2>Visiting&nbsp;</h2>
 </div>
 <div>Henri Poincaré Institute, Paris, France, 14th September – 13th December, 2015, Program: Mathematical General Relativity</div>
 <div><br>
@@ -107,7 +106,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 <div><a href="http://www.ams.org.ezproxy.lib.monash.edu.au/mathscinet/search/author.html?mrauthid=1004846">AMS MathSciNet</a><br>
 </div>
-<div><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a><br>
+<div><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a><br>-->
 </div>
 <div><br>
 </div>
