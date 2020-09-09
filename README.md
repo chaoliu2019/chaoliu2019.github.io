@@ -68,7 +68,8 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="talks"></a>
 
 <h2 style="text-align:left">Talks</h2>
-<ol><li style="text-align:left"> Stability of FLRW metric for polytropic (Makino) fluids, Institut Mittag-Leffler, Djursholm, Sweden, 03, December, 2019;</li>
+<ol>
+<li style="text-align:left"> Stability of FLRW metric for polytropic (Makino) fluids, Institut Mittag-Leffler, Djursholm, Sweden, 03, December, 2019;</li>
 </ol>
 <li style="text-align:left"> Cosmological Newtonian limits, Workshop on PDEs and harmonic analysis, Institute of Applied Physics and Computational Mathematics, Beijing, China, 13th, July, 2019;</li>
 <li style="text-align:left">How a Star is Born: Makino’s conjecture and freely falling boundary problem, Workshop on PDEs and mathematical physics 2019, Guizhou Minzu University, Guiyang, China, 12th, May, 2019;</li>
