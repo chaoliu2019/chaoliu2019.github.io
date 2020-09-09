@@ -40,7 +40,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
 
-<li style="text-align:left">Mathematical General Relativity; Cosmology; Partial differential equations; Hyperbolic equations; A-harmonic equations </li>
+<li style="text-align:left">Mathematical General Relativity; Partial differential equations; Hyperbolic equations; Cosmology; A-harmonic equations </li>
 </div>
 <div>
 
@@ -66,6 +66,14 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
 <li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
+</div>
+<div>
+ 
+<a name="employments"></a>
+ 
+<h2 style="text-align:left">Employments</h2>
+<ol><li style="text-align:left">  Associate Professor, Center for Mathematical Sciences, Huazhong University of Science and Technology, Wuhan, China, 2019.10–present;</li>
+<li style="text-align:left"> Post-doctoral Fellow, International Center for Mathematical Research (BICMR), Peking University, Beijing, China, 2017.12–2019.09.</li>
 </div>
 <div>
 
