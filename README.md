@@ -14,6 +14,33 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </font></div>
 <div><font color="#298cca"><br>
 </font></div>
+ 
+  <body bgcolor="#ffffff">
+    <table border="0">
+      <tbody>
+      <tr height="5"></tr>
+      <tr>
+        <td>
+          <img align="middle" border="0" src="./images/photo.jpg" width="220" class="imgborder">
+        </td>
+        <td width="30">
+          <br>
+        </td>
+        <td align="left">
+          <p> <h2> Hong Hu </h2></p>
+          Associate professor<br>
+          Center for Mathematical Sciences<br>
+          Huazhong University of Science and Technology,<br><br>
+    
+          305F, Steam Services Building<br>
+          1037 Luoyu Road,<br>
+          <br>
+          gmail.com: huhong789 <br>
+          psu.edu: honghu <br>
+                  </td>
+      </tr></tbody>
+    </table> 
+ 
 <h2 style="text-align:left"><span style="color:rgb(34,34,34);font-size:19px;font-weight:600;background-color:transparent">Self Introduction</span></h2>
 
 </div>
