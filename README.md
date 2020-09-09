@@ -4,6 +4,7 @@
 <div style="display:inline;float:right;margin:5px 10px"><br>
 </div>
 Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span></h2>
+ <div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" imageanchor="1"><img border="0" height="320" src="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" width="252"></a></div>
 <h4><font color="#298cca">Associate professor</font></h4>
 <div><font color="#298cca">Center for Mathematical Sciences</font></div>
 <div><font color="#298cca">Huazhong University of Science and Technology,</font></div>
@@ -15,38 +16,13 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div><font color="#298cca"><br>
 </font></div>
  
-  <body bgcolor="#ffffff">
-    <table border="0">
-      <tbody>
-      <tr height="5"></tr>
-      <tr>
-        <td>
-          <img align="middle" border="0" src="./images/photo.jpg" width="220" class="imgborder">
-        </td>
-        <td width="30">
-          <br>
-        </td>
-        <td align="left">
-          <p> <h2> Hong Hu </h2></p>
-          Associate professor<br>
-          Center for Mathematical Sciences<br>
-          Huazhong University of Science and Technology,<br><br>
-    
-          305F, Steam Services Building<br>
-          1037 Luoyu Road,<br>
-          <br>
-          gmail.com: huhong789 <br>
-          psu.edu: honghu <br>
-                  </td>
-      </tr></tbody>
-    </table> 
+
  
 <h2 style="text-align:left"><span style="color:rgb(34,34,34);font-size:19px;font-weight:600;background-color:transparent">Self Introduction</span></h2>
 
 </div>
 <font face="Times New Roman, serif"> 
 <div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at&nbsp;</span></span><span style="background-color:transparent"><span style="font-size:18.6667px">Center for Mathematical Sciences, Huazhong University of Science and Technology since October 2019. </span> I received my PhD degree from Monash University in 2017 working with Prof. Todd A. Oliynyk and worked at International Center for Mathematical Research (BICMR) of Peking University as a postdoctoral fellow, working with Prof. Gang Tian, until September 2019. 
-<div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" imageanchor="1"><img border="0" height="320" src="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" width="252"></a></div>
  </span></div>
  </font>
 <div style="text-align:left"><br>
