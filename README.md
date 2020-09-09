@@ -117,16 +117,18 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>Erwin Schrodinger International Institute for Mathematics and Physics, Vienna, Austria, and Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany, 17th July -- 1st September 2017, Program: Geometry and Relativity.</div>
 <div><br>
 </div>
+<div><a href="https://scholar.google.com/citations?hl=en&amp;user=YWQZ6qwAAAAJ">Google Scholar</a><br>
+</div>
+<div><a href="http://www.ams.org.ezproxy.lib.monash.edu.au/mathscinet/search/author.html?mrauthid=1004846">AMS MathSciNet</a><br>
+</div>
+-->
+
 <h2>Links</h2>
 <div><a href="http://orcid.org/0000-0002-7559-9447">ORCID</a><br>
 </div>
 <div><a href="https://www.researchgate.net/profile/Chao_Liu80">Researchgate</a><br>
 </div>
-<div><a href="https://scholar.google.com/citations?hl=en&amp;user=YWQZ6qwAAAAJ">Google Scholar</a><br>
-</div>
-<div><a href="http://www.ams.org.ezproxy.lib.monash.edu.au/mathscinet/search/author.html?mrauthid=1004846">AMS MathSciNet</a><br>
-</div>
-<div><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a><br>-->
+<div><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a><br>
 </div>
 <div><br>
 </div>
