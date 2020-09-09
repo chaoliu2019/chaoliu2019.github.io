@@ -1,4 +1,3 @@
-<div>
 <a name="self"></a>
 <h2 style="text-align:left"><span style="color:rgb(34,34,34);font-size:19px;font-weight:600;background-color:transparent">
 <div style="display:inline;float:right;margin:5px 10px"><br>
@@ -34,14 +33,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>
 <div>
 
-<!--<a name="contacts"></a>
-<h2 style="text-align:left">Contacts</h2>
-<div>
-<!--<p><span>Phone:  </span></p>-->
-<!--<p>Office: Math center 805, Qiming Biulding</p>
-</div>-->
-<!--
-<p style="text-align:left">E-mail:&nbsp;<a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>-->
+
 
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
@@ -75,13 +67,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 <div>
  
-<!--<a name="employments"></a>-->
- 
-<!--<h2 style="text-align:left">Employments</h2>
-<ol><li style="text-align:left">  Associate Professor, Center for Mathematical Sciences, Huazhong University of Science and Technology, Wuhan, China, 2019.10–present;</li>
-<li style="text-align:left"> Post-doctoral Fellow, International Center for Mathematical Research (BICMR), Peking University, Beijing, China, 2017.12–2019.09.</li>
-</div>
-<div>-->
+
 
 <a name="talks"></a>
 
@@ -109,19 +95,6 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
  
 
-<!--<h2>Visiting&nbsp;</h2>
-</div>
-<div>Henri Poincaré Institute, Paris, France, 14th September – 13th December, 2015, Program: Mathematical General Relativity</div>
-<div><br>
-</div>
-<div>Erwin Schrodinger International Institute for Mathematics and Physics, Vienna, Austria, and Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany, 17th July -- 1st September 2017, Program: Geometry and Relativity.</div>
-<div><br>
-</div>
-<div><a href="https://scholar.google.com/citations?hl=en&amp;user=YWQZ6qwAAAAJ">Google Scholar</a><br>
-</div>
-<div><a href="http://www.ams.org.ezproxy.lib.monash.edu.au/mathscinet/search/author.html?mrauthid=1004846">AMS MathSciNet</a><br>
-</div>
--->
 
 <h2>Links</h2>
 <div><a href="http://orcid.org/0000-0002-7559-9447">ORCID</a><br>
