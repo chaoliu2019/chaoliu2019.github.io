@@ -30,7 +30,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="contacts"></a>
 <h2 style="text-align:left">Contacts</h2>
 <div>
-<p><span>Phone:  </span></p>
+<!--<p><span>Phone:  </span></p>-->
 <p>Office: 805</p>
 </div>
 
@@ -50,7 +50,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 <h2 style="text-align:left">Publications and Projects</h2>
 <h4 style="text-align:left">Mathematical General Relativity, Euler-Poisson system and Hyperbolic PDEs:</h4>
-<ol><li style="text-align:left"> lowups of Large  Irregularly-shaped Expanding Molecular Clouds Determined by Euler--Poisson System with Diffuse Boundary. in preparation.</li>
+<ol><li style="text-align:left"> Blowups of Large  Irregularly-shaped Expanding Molecular Clouds Determined by Euler--Poisson System with Diffuse Boundary. in preparation.</li>
 <li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. to appear in Annales Henri Poincaré <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp; (54 Pages).</li>
 <li style="text-align:left">(with Todd Oliynyk) Newtonian Limits of Isolated Cosmological Systems on Long Time Scales, Annales Henri Poincaré, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
 <li style="text-align:left">(with Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;Communications in Mathematical Physics; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
@@ -88,7 +88,8 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 
 <a name="teaching"></a>
-</div>
+<h2 style="text-align:left">Teaching</h2>
+<ol>
 <div> Minicourse on Sobolev Spaces, January, 2020 </div>
 <div><br>
 </div>
