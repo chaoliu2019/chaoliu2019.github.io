@@ -58,6 +58,15 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>Cosmological Newtonian Limits on Large Scales, Ph.D. Thesis (2018), Monash University, Melbourne, Australia, available on <a href="https://figshare.com/articles/Cosmological_Newtonian_Limits_on_Large_Scales/5903833">figshare</a>, 216 pages.&nbsp;<br>
 </div>
 <div>
+ 
+<a name="teachings"></a>
+
+<h2 style="text-align:left">Teachings</h2>
+<ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
+<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
+<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
+</div>
+<div>
 
 <a name="talks"></a>
 
@@ -82,12 +91,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 <div>
 
-<a name="teachings"></a>
 
-<h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
-<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
-<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
  
 
 <!--<h2>Visiting&nbsp;</h2>
