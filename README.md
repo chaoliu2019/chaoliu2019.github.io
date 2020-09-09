@@ -80,7 +80,8 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016;</li>
 <li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014.</li>
 <div>
-
+<div><br>
+</div>
 
 <a name="teachings"></a>
 
@@ -88,15 +89,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
 <li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
-
-<a name="teaching"></a>
-
-<h2 style="text-align:left">Teaching</h2>
-<ol><li style="text-align:left"> Minicourse on Sobolev Spaces, January, 2020;</li>
-<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
-<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
-<div><br>
-</div>
+ 
 
 <!--<h2>Visiting&nbsp;</h2>
 </div>
