@@ -5,7 +5,7 @@
 </div>
 Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span></h2>
 <h4><font color="#298cca">Associate professor</font></h4>
-<h4><font color="#298cca">Center for Mathematical Sciences</font></h4>
+<div><font color="#298cca">Center for Mathematical Sciences</font></div>
 <div><font color="#298cca">Huazhong University of Science and Technology,</font></div>
 <div><font color="#298cca">1037 Luoyu Road,&nbsp;</font></div>
 <div><font color="#298cca">Wuhan, Hubei Province, </font></div>
