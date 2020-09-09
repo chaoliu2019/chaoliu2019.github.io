@@ -4,7 +4,7 @@
 <div style="display:inline;float:right;margin:5px 10px"><br>
 </div>
 Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span></h2>
- <div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" imageanchor="1"><img border="0" height="320" src="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" width="252" style="position:absolute  left:100px top:100px></a></div>
+ <div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" imageanchor="1"><img border="0" height="320" src="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" width="252"></a></div>
 <h4><font color="#298cca">Associate professor</font></h4>
 <div><font color="#298cca">Center for Mathematical Sciences</font></div>
 <div><font color="#298cca">Huazhong University of Science and Technology,</font></div>
