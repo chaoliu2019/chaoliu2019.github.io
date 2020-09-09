@@ -18,7 +18,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 </div>
 <font face="Times New Roman, serif"> 
-<div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at&nbsp;</span></span><span style="background-color:transparent"><span style="font-size:18.6667px">Center for Mathematical Sciences, Huazhong University of Science and Technology</span>
+<div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">I am currently an associate professor at&nbsp;</span></span><span style="background-color:transparent"><span style="font-size:18.6667px">Center for Mathematical Sciences, Huazhong University of Science and Technology. </span> I received my PhD degree from Monash University in 2017 working with Prof. Todd A. Oliynyk. I worked at International Center for Mathematical Research (BICMR) of Peking University as a postdoctoral fellow, working with Prof. Gang Tian. 
 <div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" imageanchor="1"><img border="0" height="320" src="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/ID.jpg" width="252"></a></div>
  </span></div>
  </font>
