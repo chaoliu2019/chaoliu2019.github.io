@@ -39,9 +39,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
 
-<ol><li style="text-align:left">Mathematical General Relativity; Cosmology; Cosmological Newtonian Limits</li>
-<li style="text-align:left">Partial differential equations; Hyperbolic equations; Singular limits of symmetric hyperbolic systems, Geometric PDEs; A-harmonic equations</li>
-<li style="text-align:left">Quasiregular mappings and harmonic analysis</li>
+<ol><li style="text-align:left">Mathematical General Relativity; Cosmology; Partial differential equations; Hyperbolic equations; A-harmonic equations </li>
 </ol>
 </div>
 <div>
@@ -49,7 +47,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="publications"></a>
 
 <h2 style="text-align:left">Publications and Projects</h2>
-<ol><li style="text-align:left"> Blowups of Large  Irregularly-shaped Expanding Molecular Clouds Determined by Euler--Poisson System with Diffuse Boundary. in preparation.</li>
+<ol><li style="text-align:left"> Blowups of Large  Irregularly-shaped Expanding Molecular Clouds Determined by Euler-Poisson System with Diffuse Boundary. in preparation.</li>
 <li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. to appear in Annales Henri Poincaré <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp; (54 Pages).</li>
 <li style="text-align:left">(with Todd Oliynyk) Newtonian Limits of Isolated Cosmological Systems on Long Time Scales, Annales Henri Poincaré, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
 <li style="text-align:left">(with Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;Communications in Mathematical Physics; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
@@ -79,10 +77,17 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">Long time cosmological Newtonian limits, &nbsp;The 60th annual meeting of the AustMS, Australian National University, Canberra, Australia, 7th, December, 2016.&nbsp;<!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISY29BZzZ1RFhqUFU">Slides.pdf</a>--></li>
 <li style="text-align:left">A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, Monash University, 20th, September 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISNGkzSTAxazVmMXM">Manuscript.pdf</a>-->;&nbsp;</li>
 <li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, Monash University, 22nd February 2016 - 26th February 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>-->;</li>
-<li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016</li>
+<li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, Tsinghua Sanya International Mathematics Forum, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016;</li>
 <li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, University of Melbourne, Melbourne, Australia, 9th December, 2014.</li>
 <div>
 
+
+<a name="teachings"></a>
+
+<h2 style="text-align:left">Teachings</h2>
+<ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
+<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.</li>
+<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
 
 <a name="teaching"></a>
 
