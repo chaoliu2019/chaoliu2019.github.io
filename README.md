@@ -63,7 +63,7 @@ I received my PhD degree from Monash University in 2017 working with Prof. Todd 
 
 <h2 style="text-align:left">Teachings</h2>
 <ol><li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
-<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (0700081), Spring 2020.<a href="https://mooc1.chaoxing.com/course/206434462.html">Lecture materials and videos</a></li>
+<li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), Spring 2020.<a href="https://mooc1.chaoxing.com/course/206434462.html">Lecture materials and videos</a></li>
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020.</li>
 </div>
 <div>
