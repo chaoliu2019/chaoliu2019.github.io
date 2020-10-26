@@ -74,6 +74,8 @@ I received my PhD degree from Monash University in 2017 working with Prof. Todd 
 
 <h2 style="text-align:left">Talks</h2>
 <ol>
+<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, Hohai University, Nanjing, 24, October,2020;</li>
+<li style="text-align:left"> Mathematical General Relativity and Cosmology, School of Physics, Huazhong University of Science and Technology, Wuhan, 18, September, 20120;</li>
 <li style="text-align:left"> Stability of FLRW metric for polytropic (Makino) fluids, Institut Mittag-Leffler, Djursholm, Sweden, 03, December, 2019;</li>
 <li style="text-align:left"> Cosmological Newtonian limits, Workshop on PDEs and harmonic analysis, Institute of Applied Physics and Computational Mathematics, Beijing, China, 13th, July, 2019;</li>
 <li style="text-align:left">How a Star is Born: Makino’s conjecture and freely falling boundary problem, Workshop on PDEs and mathematical physics 2019, Guizhou Minzu University, Guiyang, China, 12th, May, 2019;</li>
