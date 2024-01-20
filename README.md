@@ -66,7 +66,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
  
 <h4>Publications:&nbsp;</h4>
-<ol><li style="text-align:left">(With Todd Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
+<ol><li style="text-align:left">(With Todd A. Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
          <br />Accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
  <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
          <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
@@ -79,9 +79,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. 
    <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp;</li>
 <br>
-<li style="text-align:left">(With Todd Oliynyk) Newtonian limits of isolated cosmological systems on long time scales, 
+<li style="text-align:left">(With Todd A. Oliynyk) Newtonian limits of isolated cosmological systems on long time scales, 
    <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
-<li style="text-align:left">(With Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;
+<li style="text-align:left">(With Todd A. Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;
    <br /><b>Communications in Mathematical Physics (CMP)</b>; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
    <br>
 <li style="text-align:left">(With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications, 
