@@ -62,9 +62,12 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
  
 <h4>Publications:&nbsp;</h4>
-<ol><li style="text-align:left">(With Todd Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
- <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
- <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arxiv:2102.11550v2</a>.&nbsp; </li>
+<ol><li style="text-align:left">(With Todd Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
+<br />accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
+ <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
+   <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
+ <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. 
+   <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arxiv:2102.11550v2</a>.&nbsp; </li>
  <br>
  <li style="text-align:left">(With Yiqing Shi) Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. <b>Physical Review D (PRD)</b>, 2022, 105(4): 043519. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043519">DOI: 10.1103/PhysRevD.105.043519</a>.&nbsp; <a href="https://arxiv.org/abs/2201.01199">arXiv:2201.01199</a>.&nbsp; </li>
  <br>
@@ -166,8 +169,4 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-
   
