@@ -62,30 +62,38 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
  
 <h4>Publications:&nbsp;</h4>
-<ol><li style="text-align:left">(With Todd Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
-<br />accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
+<ol><li style="text-align:left">Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
+         <br /> (With Todd Oliynyk, Jinhua Wang) 
+         <br />accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
  <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
-   <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
+         <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
  <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. 
-   <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arxiv:2102.11550v2</a>.&nbsp; </li>
+         <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arxiv:2102.11550v2</a>.&nbsp; </li>
  <br>
- <li style="text-align:left">(With Yiqing Shi) Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. 
+ <li style="text-align:left">Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. 
+   <br /> (With Yiqing Shi) 
    <br /> <b>Physical Review D (PRD)</b>, 2022, 105(4): 043519. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043519">DOI: 10.1103/PhysRevD.105.043519</a>.&nbsp; <a href="https://arxiv.org/abs/2201.01199">arXiv:2201.01199</a>.&nbsp; </li>
  <br>
-<li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. 
-  <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp;</li>
+<li style="text-align:left">Future stability of the FLRW spacetime for a class of perfect fluids. 
+   <br /> (With Changhua Wei) 
+   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp;</li>
 <br>
-<li style="text-align:left">(With Todd Oliynyk) Newtonian limits of isolated cosmological systems on long time scales, 
-  <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
-<li style="text-align:left">(With Todd Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;
-  <br /><b>Communications in Mathematical Physics (CMP)</b>; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
+<li style="text-align:left">Newtonian limits of isolated cosmological systems on long time scales, 
+   <br />(With Todd Oliynyk) 
+   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243, <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
+<li style="text-align:left">Cosmological Newtonian limits on large spacetime scales.&nbsp;
+   <br />(With Todd Oliynyk) 
+   <br /><b>Communications in Mathematical Physics (CMP)</b>; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
+   <br>
+<li style="text-align:left">A Generalization of Exponential Class and Its Applications, 
+   <br /> (With Hongya Gao, Hong Tian) 
+   <br /> <b>Abstract and Applied Analysis</b>. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
+<li style="text-align:left">Remarks on a Paper by Leonetti and Siepe, 
+   <br /> (With Hongya Gao, Hong Tian) 
+   <br /> <b>Journal of Mathematical Analysis and Applications</b>. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">Link</a></li>
  <br>
-<li style="text-align:left"> (With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications, 
-  <br /> <b>Abstract and Applied Analysis</b>. vol. 2013, Article ID 476309, 8 pages, 2013. doi:10.1155/2013/476309.&nbsp;<a href="http://downloads.hindawi.com/journals/aaa/2013/476309.pdf">pdf</a></li>
-<li style="text-align:left">(With Hongya Gao, Hong Tian) Remarks on a Paper by Leonetti and Siepe, 
-  <br /> <b>Journal of Mathematical Analysis and Applications</b>. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">Link</a></li>
- <br>
-<li style="text-align:left">(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K<sub>1</sub>, K<sub>2</sub> )-Quasiregular Mappings, 
+<li style="text-align:left">Hölder Continuity and Differentiability Almost Everywhere of (K<sub>1</sub>, K<sub>2</sub> )-Quasiregular Mappings, 
+  <br />(With Hongya Gao, Junwei Li) 
   <br /> <b>Acta Mathematica Sinica Chinese Series</b>，2012,55(4), 721-726.&nbsp;<a href="https://drive.google.com/open?id=0B5o-Xm1AWaISOUdEcjJzZ21XM2s">English version.pdf</a>,&nbsp;<a href="http://123.57.41.99/Jwk_sxxb_cn//CN/article/downloadArticleFile.do?attachType=PDF&amp;id=21741">Chinese version.pdf</a></li>
 </ol>
 <h4>PhD Thesis:&nbsp;</h4>
