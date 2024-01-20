@@ -60,7 +60,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
  <br>
  <li style="text-align:left">(With Jinhua Wang) A new symmetric hyperbolic formulation and the local Cauchy problem for the Einstein-Yang-Mills system in the temporal gauge. 
         <br /> <a href="https://arxiv.org/abs/2111.04540v2">arXiv:2111.04540v2</a>.&nbsp; </li>
- <li style="text-align:left"> Local well-posedness of Euler-Poisson dominated molecular clouds in astrophysics. 
+ <li style="text-align:left"> Localized continuation criterion, improved local existence and uniqueness for the Euler-Poisson system in a bounded domain. 
         <br /> <a href="https://arxiv.org/abs/2111.11708">arXiv:2111.11708</a>.&nbsp; </li>
 </ol>
 
