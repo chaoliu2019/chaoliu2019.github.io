@@ -67,7 +67,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
  
 <h4>Publications:&nbsp;</h4>
 <ol><li style="text-align:left">(With Todd A. Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
-         <br />Accepted in December 2023 by <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
+         <br /> <b>Journal of the European Mathematical Society (JEMS)</b>, <a href="https://ems.press/journals/jems/articles/forthcoming">Accepted in December 2023</a>.&nbsp; <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
  <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
          <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
  <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. 
@@ -100,7 +100,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="teachings"></a>
 
 <h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), 2020 (Spring, <a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), 2021 (Spring), 2022 (Spring), 2023(Spring,<a href="https://mooc1.chaoxing.com/mycourse/teachercourse?moocId=234622012&clazzid=76973201&edit=true&v=0&cpi=0&pageHeader=0">videos</a>; Fall, <a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>)</li>
+<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), 2020 (Spring, <a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), 2021 (Spring), 2022 (Spring), 2023(Spring,<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>; Fall, <a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>)</li>
  <li style="text-align:left"> Equations of Mathematical Physics (School of Physics), Spring 2021.
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, Autumn 2020. 
  <li style="text-align:left">  Minicourse on Sobolev Spaces, January, 2020;</li>
