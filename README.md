@@ -45,7 +45,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="interests"></a>
 <h2 style="text-align:left">Research Interests</h2>
 
-<p>Mathematical General Relativity; Hyperbolic Partial differential equations; Einstein-matter equations; Euler-Poisson equations; Cosmology; A-harmonic equations </p>
+<p>Mathematical General Relativity; Hyperbolic Partial Differential Equations; Einstein-matter Equations; Euler-Poisson Equations; Cosmology; A-harmonic Equations </p>
 </div>
 <div>
 
