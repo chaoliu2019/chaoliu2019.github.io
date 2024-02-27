@@ -100,7 +100,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="teachings"></a>
 
 <h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), 2020 (Spring, <a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), 2021 (Spring), 2022 (Spring), 2023 (Spring,<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>; Fall, <a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>)</li>
+<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), 2020 (Spring, <a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), 2021 (Spring), 2022 (Spring), 2023 (Spring, <a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>; Fall, <a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>), 2024 (Spring, <a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">videos</a>)</li>
  <li style="text-align:left"> Equations of Mathematical Physics (PHY0721), 2021 (Spring).
 <li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, 2020 (Math Center, Sep.). 
  <li style="text-align:left">  Minicourse on Sobolev Spaces, 2020 (Math center, Jan.);</li>
