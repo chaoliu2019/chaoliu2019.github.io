@@ -53,7 +53,10 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 <h2 style="text-align:left">Publications and Preprints</h2>
 <h4>Preprints:&nbsp;</h4>
-<ol><li style="text-align:left">Fully nonlinear gravitational instabilities for expanding spherical symmetric Newtonian universes with inhomogeneous density and pressure. 
+<ol><li style="text-align:left">The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations. 
+       <a href="https://arxiv.org/abs/2409.02516"> arXiv:2409.02516</a>.&nbsp; </li>
+  <br>
+<li style="text-align:left">Fully nonlinear gravitational instabilities for expanding spherical symmetric Newtonian universes with inhomogeneous density and pressure. 
        <a href="https://arxiv.org/abs/2305.13211"> arXiv:2305.13211</a>.&nbsp; </li>
   <br>
 <li style="text-align:left">Blowups for a class of second order nonlinear hyperbolic equations: A reduced model of nonlinear Jeans instability. 
@@ -178,6 +181,11 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>
 <h2 style="text-align:left"><br>
 </h2>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
