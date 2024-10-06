@@ -104,11 +104,11 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="teachings"></a>
 
 <h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701): Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">videos</a>), Fall 2024</li>
- <li style="text-align:left"> Equations of Mathematical Physics (PHY0721): Spring 2021.
-<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations: Fall 2020 (Math Center). 
- <li style="text-align:left">  Minicourse on Sobolev Spaces: Jan. 2020 (Math center).
- <li style="text-align:left">  Graduate-Level Independent Study Courses: Fall 2020, Spring 2021, Fall 2021, Spring 2022,Fall 2022; Spring 2023, Fall 2023, Spring 2024, Fall 2024.</li>
+<ol><li style="text-align:left"> <b>Equations of Mathematical Physics and Special Functions (MAT0701)</b>: Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">videos</a>), Fall 2024</li>
+ <li style="text-align:left"> <b>Equations of Mathematical Physics (PHY0721)</b>: Spring 2021.
+<li style="text-align:left"> <b>Blowup for Nonlinear Hyperbolic Equations</b>: Fall 2020 (Math Center). 
+ <li style="text-align:left">  <b>Minicourse on Sobolev Spaces</b>: Jan. 2020 (Math center).
+ <li style="text-align:left">  <b>Graduate-Level Independent Study Courses</b>: Fall 2020, Spring 2021, Fall 2021, Spring 2022,Fall 2022; Spring 2023, Fall 2023, Spring 2024, Fall 2024.</li>
 </div>
 <div>
  
@@ -183,6 +183,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>
 <h2 style="text-align:left"><br>
 </h2>
+</div>
 </div>
 </div>
 </div>
