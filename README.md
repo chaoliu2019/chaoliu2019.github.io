@@ -75,13 +75,13 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
  <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
          <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
  <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. 
-         <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arxiv:2102.11550v2</a>.&nbsp; </li>
+         <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arXiv:2102.11550v2</a>.&nbsp; </li>
  <br>
  <li style="text-align:left">(With Yiqing Shi) Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. 
    <br /> <b>Physical Review D (PRD)</b>, 2022, 105(4): 043519. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043519">DOI: 10.1103/PhysRevD.105.043519</a>.&nbsp; <a href="https://arxiv.org/abs/2201.01199">arXiv:2201.01199</a>.&nbsp; </li>
  <br>
 <li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. 
-   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arxiv:1810.11788</a>.&nbsp;</li>
+   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arXiv:1810.11788</a>.&nbsp;</li>
 <br>
 <li style="text-align:left">(With Todd A. Oliynyk) Newtonian limits of isolated cosmological systems on long time scales. 
    <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243.&nbsp; <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
@@ -104,10 +104,11 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="teachings"></a>
 
 <h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701), 2020 (Spring, <a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), 2021 (Spring), 2022 (Spring), 2023 (Spring, <a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>; Fall, <a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>), 2024 (Spring, <a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">videos</a>)</li>
- <li style="text-align:left"> Equations of Mathematical Physics (PHY0721), 2021 (Spring).
-<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations, 2020 (Math Center, Sep.). 
- <li style="text-align:left">  Minicourse on Sobolev Spaces, 2020 (Math center, Jan.);</li>
+<ol><li style="text-align:left"> Equations of Mathematical Physics and Special Functions (MAT0701): Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">videos</a>), Fall 2024</li>
+ <li style="text-align:left"> Equations of Mathematical Physics (PHY0721): Spring 2021.
+<li style="text-align:left"> Blowup for Nonlinear Hyperbolic Equations: Fall 2020 (Math Center). 
+ <li style="text-align:left">  Minicourse on Sobolev Spaces: Jan. 2020 (Math center).
+ <li style="text-align:left">  Graduate-Level Independent Study Courses: Fall 2020, Spring 2021, Fall 2021, Spring 2022,Fall 2022; Spring 2023, Fall 2023, Spring 2024, Fall 2024.</li>
 </div>
 <div>
  
@@ -182,7 +183,6 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <div>
 <h2 style="text-align:left"><br>
 </h2>
-</div>
 </div>
 </div>
 </div>
