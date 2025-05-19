@@ -96,6 +96,12 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <li style="text-align:left">(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K<sub>1</sub>, K<sub>2</sub> )-Quasiregular Mappings.  
   <br /> <b>Acta Mathematica Sinica Chinese Series</b>，2012,55(4), 721-726.&nbsp; <a href="http://www.shuxuexuebao.cn/index.php?m=content&c=index&a=show&catid=54&id=874">Journal</a>.&nbsp;<a href="https://arxiv.org/abs/1812.07779">arXiv: 1812.07779</a>&nbsp;</li>
 </ol>
+
+  <h4>Books:&nbsp;</h4>
+<ol><li style="text-align:left">Methods and Ideas in Linear Partial Differential Equations. 
+       <a href="LinearPDE(Draft)V1_Chao Liu.pdf"> Preprint (Draft, 381 pages) </a>.&nbsp; </li>
+  </ol>
+  
 <h4>PhD Thesis:&nbsp;</h4>
 <div>Cosmological Newtonian Limits on Large Scales, Ph.D. Thesis (2018), Monash University, Melbourne, Australia, available on <a href="https://figshare.com/articles/Cosmological_Newtonian_Limits_on_Large_Scales/5903833">figshare</a>, 216 pages.&nbsp;<br>
 </div>
@@ -104,7 +110,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <a name="teachings"></a>
 
 <h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> <b>Equations of Mathematical Physics and Special Functions (MAT0701)</b>: Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">Videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">Videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">Videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">Videos</a>), Spring 2025 (<a href="https://chaoliu2019.github.io/lectures/">Course Website</a>)</li>
+<ol><li style="text-align:left"> <b>Equations of Mathematical Physics and Special Functions (MAT0701)</b>: Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">Videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">Videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">Videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">Videos</a>), Spring 2025 (<a href="https://chaoliu2019.github.io/lectures/">Course Website (Notes and Videos)</a>)</li>
  <li style="text-align:left"> <b>Equations of Mathematical Physics (PHY0721)</b>: Spring 2021.
 <li style="text-align:left"> <b>Blowup for Nonlinear Hyperbolic Equations</b>: Fall 2020 (Math Center). 
  <li style="text-align:left">  <b>Minicourse on Sobolev Spaces</b>: Jan. 2020 (Math center), (<a href="https://github.com/chaoliu2019/documents/blob/main/Sobolev.pdf">Notes</a>).
