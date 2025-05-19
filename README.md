@@ -99,7 +99,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
   <h4>Books:&nbsp;</h4>
 <ol><li style="text-align:left">Methods and Ideas in Linear Partial Differential Equations. 
-       <a href="LinearPDE(Draft)V1_Chao Liu.pdf"> Preprint (Draft, 381 pages) </a>.&nbsp; </li>
+       <a href="https://github.com/chaoliu2019/chaoliu.github.io/blob/master/LinearPDE(Draft)V1_Chao%20Liu.pdf"> Preprint (Draft, 381 pages) </a>.&nbsp; </li>
   </ol>
   
 <h4>PhD Thesis:&nbsp;</h4>
@@ -123,7 +123,7 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 <h2 style="text-align:left">Postgraduate Students</h2>
 <ol>
 <li style="text-align:left">  Yiqing Shi (时昳晴, PhD,2020.09-now);</li>
-<li style="text-align:left">  Weiqi Ji (纪玮琦, Master, 2022.09-2025,07), <b>The nonlinear Jeans-type instabilities for two families of quasilinear wave equations with sources</b>;</li>
+<li style="text-align:left">  Weiqi Ji (纪玮琦, Master, 2022.09-2025,07). Thesis: <b>The nonlinear Jeans-type instabilities for two families of quasilinear wave equations with sources (2025)</b>;</li>
 <li style="text-align:left">  Chihang He (何池航, Master, 2023.09-now);</li> 
 <li style="text-align:left">  Chenxinyu Luo (罗辰新宇, Master, 2023.09-now);</li> 
 </div>
