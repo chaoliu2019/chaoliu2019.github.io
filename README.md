@@ -125,10 +125,12 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 
 <h2 style="text-align:left">Postgraduate Students</h2>
 <ol>
-<li style="text-align:left">  Yiqing Shi (时昳晴, PhD,2020.09-now);</li>
+<li style="text-align:left">  Yiqing Shi (时昳晴, PhD,2020.09-now). Thesis: <b>The nonlinear Jeans-type instabilities for two
+families of hyperbolic equations (2025)</b>;</li>
 <li style="text-align:left">  Weiqi Ji (纪玮琦, Master, 2022.09-2025,07). Thesis: <b>The nonlinear Jeans-type instabilities for two families of quasilinear wave equations with sources (2025)</b>;</li>
 <li style="text-align:left">  Chihang He (何池航, Master, 2023.09-now);</li> 
 <li style="text-align:left">  Chenxinyu Luo (罗辰新宇, Master, 2023.09-now);</li> 
+<li style="text-align:left">  Xiangcheng Meng (孟祥呈, Master, 2025  .09-now);</li> 
 </div>
 <div>
  
@@ -170,6 +172,9 @@ Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span>
 </div>
 <div>
 
+
+ 
+  
 
 <a name="visiting programmes"></a>
 
