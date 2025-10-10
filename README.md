@@ -181,9 +181,9 @@ families of hyperbolic equations (2025)</b>;</li>
 <ol>
 <li style="text-align:left">  <b>NSFC General Program‌, No. 12571234, </b> PI, 2026-2029;</li>
 <li style="text-align:left">  <b>NSFC General Program‌, No. 11971503, </b> Participant, 2020-2023;</li>
-<li style="text-align:left">  <b>Fundamental Research Funds for the Central Universities, HUST: 2020kfyXJJS037</b> PI, 2020-2022;</li>
-<li style="text-align:left">  <b>Mittag-Leffler Fellowship</b> 2019;</li>
-<li style="text-align:left">  <b>China Postdoctoral Science Foundation Grant, No. 2018M641054</b> PI, 2018-2019.</li>
+<li style="text-align:left">  <b>Fundamental Research Funds for the Central Universities, HUST: 2020kfyXJJS037,</b> PI, 2020-2022;</li>
+<li style="text-align:left">  <b>Mittag-Leffler Fellowship,</b> 2019;</li>
+<li style="text-align:left">  <b>China Postdoctoral Science Foundation Grant, No. 2018M641054,</b> PI, 2018-2019.</li>
 </div>
 <div>
  
@@ -193,7 +193,7 @@ families of hyperbolic equations (2025)</b>;</li>
 
 <h2 style="text-align:left">Visiting Programmes</h2>
 <ol>
-<li style="text-align:left">  <b>Institut Mittag-Leffler</b> "GENERAL RELATIVITY, GEOMETRY, AND ANALYSIS: BEYOND THE FIRST 100 YEARS AFTER EINSTEIN",Djursholm, Sweden,September – December 2019;</li>
+<li style="text-align:left">  <b>Institut Mittag-Leffler</b> "GENERAL RELATIVITY, GEOMETRY, AND ANALYSIS: BEYOND THE FIRST 100 YEARS AFTER EINSTEIN", Djursholm, Sweden, September – December 2019;</li>
 <li style="text-align:left">  <b>Erwin Schrödinger Institute</b> "GEOMETRY AND RELATIVITY PROGRAM ", Vienna, Austria, July – August 2017;</li>
 <li style="text-align:left">  <b>Institut Henri Poincaré</b> "MATHEMATICAL GENERAL RELATIVITY PROGRAM ", Paris, France, September – November 2015.</li>
 </div>
@@ -209,8 +209,8 @@ families of hyperbolic equations (2025)</b>;</li>
   </div>
 <div><a href="https://scholar.google.com/citations?hl=zh-CN&user=T36RJI8AAAAJ&view_op=list_works&sortby=pubdate">My Google Scholar</a><br>
 </div>
-<!--<div><a href="https://tianjiaodai369.github.io/">My Wife-Tianjiao Dai-School of Naval Architecture and Ocean Engineering, HUST</a><br>
-</div>-->
+<div><a href="https://tianjiaodai369.github.io/">My Wife-Tianjiao Dai</a><br>
+</div>
 <div><br>
 </div>
 <div><br>
