@@ -1,225 +1,164 @@
-<a name="self"></a>
-<h2 style="text-align:left"><span style="color:rgb(34,34,34);font-size:19px;font-weight:600;background-color:transparent">
-<meta name="msvalidate.01" content="BB2465C01B9D44615D5D788403DC4783" />
-<div style="display:inline;float:right;margin:5px 10px">
-<meta name="msvalidate.01" content="BB2465C01B9D44615D5D788403DC4783" />
-<br>
-</div>
-Chao Liu</span><span style="background-color:transparent">&nbsp;(刘 超)</span></h2>
- <div style="font-size:18.6667px;display:inline;float:right;margin:5px 10px"><img align="right" border="0" height="320" src="https://raw.githubusercontent.com/chaoliu2019/chaoliu.github.io/master/QQ20211226-0.jpg" width="252"></a></div>
-<h4><font color="#298cca">Associate professor</font></h4>
-<div><font color="#298cca"> Center for Mathematical Sciences and School of Mathematics and Statistics</font></div>
-<div><font color="#298cca"> Huazhong University of Science and Technology,</font></div>
-<div><font color="#298cca">1037 Luoyu Road,&nbsp;</font></div>
-<div><font color="#298cca">Wuhan, Hubei Province, </font></div>
-<div><font color="#298cca">China</font></div>
-<div><font color="#298cca"><br>
-<p>Office: Math center 813, Enming Biulding</p>
-</div>
-<p style="text-align:left">E-mail:&nbsp;<a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>
-</font></div>
-<div><font color="#298cca"><br>
-</font></div>
- 
+  <!-- 页面头部：姓名与基本信息 -->
+    <header>
+      <h1>Chao Liu (刘超)</h1>
+      <h2>Associate Professor</h2>
+      <p>Center for Mathematical Sciences and School of Mathematics and Statistics<br>
+         Huazhong University of Science and Technology<br>
+         1037 Luoyu Road, Wuhan, Hubei Province, China</p>
+      <p>Office: Math Center 813, Enming Building<br>
+         E-mail: <a href="mailto:chao_liu@hust.edu.cn">chao_liu@hust.edu.cn</a></p>
+      <!-- 个人照片（修复链接） -->
+      <img align="right" border="0" height="320" src="https://raw.githubusercontent.com/chaoliu2019/chaoliu2019.github.io/master/QQ20211226-0.jpg" width="252" alt="Chao Liu Photo">
+    </header>
 
- 
-<h2 style="text-align:left"><span style="color:rgb(34,34,34);font-size:19px;font-weight:600;background-color:transparent">Self Introduction</span></h2>
+    <!-- 个人简介 -->
+    <section id="self-introduction">
+      <h2>Self Introduction</h2>
+      <ol>
+        <li>2019.10-present: Associate Professor, <a href="http://mathcenter.hust.edu.cn/">Center for Mathematical Sciences</a> and <a href="http://maths.hust.edu.cn/">School of Mathematics and Statistics</a>, <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a></li>
+        <li>2017.10-2019.9: Postdoc, <a href="https://bicmr.pku.edu.cn/">International Center for Mathematical Research (BICMR)</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. Supervisor: Prof. <a href="http://tian.bicmr.pku.edu.cn/index.htm">Gang Tian</a>.</li>
+        <li>2014.2-2017.9: PhD, <a href="https://www.monash.edu/science/schools/school-of-mathematics">School of Mathematics</a>, <a href="https://www.monash.edu/">Monash University</a>. Supervisors: Prof. <a href="https://research.monash.edu/en/persons/todd-oliynyk">Todd A. Oliynyk</a> (main) and Dr. <a href="https://research.monash.edu/en/persons/julie-clutterbuck">Julie Clutterbuck</a> (associate).</li>
+      </ol>
+    </section>
 
-</div>
-<font face="Times New Roman, serif"> 
-<div style="text-align:left"><span style="background-color:transparent"><span style="font-size:18.6667px">
- <ol><li style="text-align:left">2019.10-now. Associate professor, <a href="http://mathcenter.hust.edu.cn/">Center for Mathematical Sciences</a> and <a href="http://maths.hust.edu.cn/"> School of Mathematics and Statistics</a>, <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a> </li>
-<li style="text-align:left"> 2017.10-2019.9. Postdoc, <a href="https://bicmr.pku.edu.cn/">International Center for Mathematical Research (BICMR)</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. Supervisor: Prof. <a href="http://tian.bicmr.pku.edu.cn/index.htm">Gang Tian</a>.  
-<li style="text-align:left">2014.2-2017.9. PhD, <a href="https://www.monash.edu/science/schools/school-of-mathematics">School of Mathematics</a>,  <a href="https://www.monash.edu/"> Monash University</a>. Supervisors: Prof. <a href="https://research.monash.edu/en/persons/todd-oliynyk">Todd A. Oliynyk</a> (main) and Dr. <a href="https://research.monash.edu/en/persons/julie-clutterbuck">Julie Clutterbuck</a> (associate). </li>
- </span></div>
- </font>
-<div style="text-align:left"><br>
-</div>
-<div>
-<div>
-<div>
+    <!-- 研究方向 -->
+    <section id="research-interests">
+      <h2>Research Interests</h2>
+      <p>Nonlinear PDEs; Mathematical General Relativity; Hyperbolic PDEs; Fluid Mechanics; Singularity Formation; Einstein-matter Equations; Euler-Poisson Equations; Cosmology; A-harmonic Equations.</p>
+    </section>
 
+    <!--  publications与预印本 -->
+    <section id="publications">
+      <h2>Publications and Preprints</h2>
+      
+      <h3>Preprints</h3>
+      <ol>
+        <li>(With Chihang He, Jinhua Wang) Proofs of singularity-free solutions and scalarization in nonlinear Einstein-scalar-Gauss-Bonnet cosmology. <a href="https://arxiv.org/abs/2507.15304">arXiv:2507.15304</a>.</li>
+        <li>The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations. <a href="https://arxiv.org/abs/2409.02516">arXiv:2409.02516</a>.</li>
+        <li>Fully nonlinear gravitational instabilities for expanding spherical symmetric Newtonian universes with inhomogeneous density and pressure. <a href="https://arxiv.org/abs/2305.13211">arXiv:2305.13211</a>.</li>
+        <li>(With Jinhua Wang) A new symmetric hyperbolic formulation and the local Cauchy problem for the Einstein-Yang-Mills system in the temporal gauge. <a href="https://arxiv.org/abs/2111.04540v2">arXiv:2111.04540v2</a>.</li>
+        <li>Localized continuation criterion, improved local existence and uniqueness for the Euler-Poisson system in a bounded domain. <a href="https://arxiv.org/abs/2111.11708">arXiv:2111.11708</a>.</li>
+      </ol>
 
+      <h3>Publications</h3>
+      <ol>
+        <li>Blowups for a class of second order nonlinear hyperbolic equations: A reduced model of nonlinear Jeans instability. <b>Mathematische Annalen (MAAN)</b>, 2025, 393, 317-363. <a href="https://doi.org/10.1007/s00208-025-03260-0">DOI: 10.1007/s00208-025-03260-0</a>; <a href="https://arxiv.org/abs/2208.06788">arXiv:2208.06788</a>.</li>
+        <li>(With Todd A. Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. <b>Journal of the European Mathematical Society (JEMS)</b>, 2024, published online first. <a href="https://ems.press/journals/jems/articles/14298393">DOI: 10.4171/JEMS/1556</a>; <a href="https://arxiv.org/abs/2202.05432">arXiv:2202.05432</a>.</li>
+        <li>Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>; <a href="https://arxiv.org/abs/2210.04657">arXiv:2210.04657</a>.</li>
+        <li>Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594. <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>; <a href="https://arxiv.org/abs/2102.11550v2">arXiv:2102.11550v2</a>.</li>
+        <li>(With Yiqing Shi) Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. <b>Physical Review D (PRD)</b>, 2022, 105(4): 043519. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043519">DOI: 10.1103/PhysRevD.105.043519</a>; <a href="https://arxiv.org/abs/2201.01199">arXiv:2201.01199</a>.</li>
+        <li>(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. <b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770. <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>; <a href="https://arxiv.org/abs/1810.11788">arXiv:1810.11788</a>.</li>
+        <li>(With Todd A. Oliynyk) Newtonian limits of isolated cosmological systems on long time scales. <b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243. <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>; <a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>.</li>
+        <li>(With Todd A. Oliynyk) Cosmological Newtonian limits on large spacetime scales. <b>Communications in Mathematical Physics (CMP)</b>, 2018, 364(3) 1195-1304. <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>; <a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a>.</li>
+        <li>(With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications. <b>Abstract and Applied Analysis</b>, 2013, Article ID 476309. <a href="https://downloads.hindawi.com/journals/aaa/2013/476309.pdf">DOI:10.1155/2013/476309</a>; <a href="https://arxiv.org/abs/1812.07843">arXiv:1812.07843</a>.</li>
+        <li>(With Hongya Gao, Hong Tian) Remarks on a Paper by Leonetti and Siepe. <b>Journal of Mathematical Analysis and Applications (JMAA)</b>, 2013 (401), 881-887. <a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">DOI:10.1016/j.jmaa.2012.12.037</a>; <a href="https://arxiv.org/abs/1812.07740">arXiv:1812.07740</a>.</li>
+        <li>(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K₁, K₂)-Quasiregular Mappings. <b>Acta Mathematica Sinica Chinese Series</b>, 2012,55(4), 721-726. <a href="http://www.shuxuexuebao.cn/index.php?m=content&c=index&a=show&catid=54&id=874">Journal</a>; <a href="https://arxiv.org/abs/1812.07779">arXiv: 1812.07779</a>.</li>
+      </ol>
 
-<a name="interests"></a>
-<h2 style="text-align:left">Research Interests</h2>
+      <h3>Books</h3>
+      <ol>
+        <li>Methods and Ideas in Linear Partial Differential Equations. <a href="https://github.com/chaoliu2019/documents/blob/PDElec/LinearPDE(Draft)V1_Chao%20Liu.pdf">Preprint (Draft, 381 pages)</a>.</li>
+      </ol>
 
-<p>	Nonlinear PDEs; Mathematical General Relativity; Hyperbolic PDEs; Fluid mechanics; Singularity formation;  Einstein-matter Equations; Euler-Poisson Equations; Cosmology;  A-harmonic Equations.  </p>
-</div>
-<div>
+      <h3>PhD Thesis</h3>
+      <p>Cosmological Newtonian Limits on Large Scales, Ph.D. Thesis (2018), Monash University, Melbourne, Australia. Available on <a href="https://figshare.com/articles/Cosmological_Newtonian_Limits_on_Large_Scales/5903833">figshare</a> (216 pages).</p>
+    </section>
 
-<a name="publications"></a>
+    <!-- 教学经历 -->
+    <section id="teachings">
+      <h2>Teachings</h2>
+      <ol>
+        <li><b>Equations of Mathematical Physics and Special Functions (MAT0701)</b>: Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">Videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">Videos</a>), Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">Videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">Videos</a>), Spring 2025 (<a href="https://chaoliu2019.github.io/lectures/">Course Website (Notes and Videos)</a>)</li>
+        <li><b>Equations of Mathematical Physics (PHY0721)</b>: Spring 2021.</li>
+        <li><b>Blowup for Nonlinear Hyperbolic Equations</b>: Fall 2020 (Math Center).</li>
+        <li><b>Minicourse on Sobolev Spaces</b>: Jan. 2020 (Math Center), (<a href="https://github.com/chaoliu2019/documents/blob/main/Sobolev.pdf">Notes</a>).</li>
+        <li><b>Graduate-Level Independent Study Courses</b>: Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024.</li>
+      </ol>
+    </section>
 
-<h2 style="text-align:left">Publications and Preprints</h2>
-<h4>Preprints:&nbsp;</h4>
-<ol><li style="text-align:left">(With Chihang He, Jinhua Wang) Proofs of singularity-free solutions and scalarization in nonlinear Einstein-scalar-Gauss-Bonnet cosmology. 
-       <a href="https://arxiv.org/abs/2507.15304"> arXiv:2507.15304</a>.&nbsp; </li>
-  <br>
-<li style="text-align:left">The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations. 
-       <a href="https://arxiv.org/abs/2409.02516"> arXiv:2409.02516</a>.&nbsp; </li>
-  <br>
-<li style="text-align:left">Fully nonlinear gravitational instabilities for expanding spherical symmetric Newtonian universes with inhomogeneous density and pressure. 
-       <a href="https://arxiv.org/abs/2305.13211"> arXiv:2305.13211</a>.&nbsp; </li>
-  <br>
- <li style="text-align:left">(With Jinhua Wang) A new symmetric hyperbolic formulation and the local Cauchy problem for the Einstein-Yang-Mills system in the temporal gauge. 
-        <a href="https://arxiv.org/abs/2111.04540v2">arXiv:2111.04540v2</a>.&nbsp; </li>
- <li style="text-align:left"> Localized continuation criterion, improved local existence and uniqueness for the Euler-Poisson system in a bounded domain. 
-        <a href="https://arxiv.org/abs/2111.11708">arXiv:2111.11708</a>.&nbsp; </li>
-</ol>
+    <!-- 研究生指导 -->
+    <section id="postgraduate-students">
+      <h2>Postgraduate Students</h2>
+      <ol>
+        <li>Yiqing Shi (时昳晴, PhD, 2020.09-present). Thesis: <b>The nonlinear Jeans-type instabilities for two families of hyperbolic equations (2025)</b>.</li>
+        <li>Weiqi Ji (纪玮琦, Master, 2022.09-2025.07). Thesis: <b>The nonlinear Jeans-type instabilities for two families of quasilinear wave equations with sources (2025)</b>.</li>
+        <li>Chihang He (何池航, Master, 2023.09-present).</li>
+        <li>Chenxinyu Luo (罗辰新宇, Master, 2023.09-present).</li>
+        <li>Xiangcheng Meng (孟祥呈, Master, 2025.09-present).</li>
+      </ol>
+    </section>
 
- 
-<h4>Publications:&nbsp;</h4>
-<ol><li style="text-align:left">Blowups for a class of second order nonlinear hyperbolic equations: A reduced model of nonlinear Jeans instability. 
-   <br /> <b>Mathematische Annalen (MAAN)</b>, 2025,  393, 317-363. <a href="https://doi.org/10.1007/s00208-025-03260-0">DOI: 10.1007/s00208-025-03260-0</a>.&nbsp; <a href="https://arxiv.org/abs/2208.06788"> arXiv:2208.06788</a>.&nbsp; </li>
- <br>
-  <li style="text-align:left">(With Todd A. Oliynyk, Jinhua Wang) Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n≥4. 
-         <br /> <b>Journal of the European Mathematical Society (JEMS)</b>, 2024, published online first. <a href="https://ems.press/journals/jems/articles/14298393">DOI: 10.4171/JEMS/1556</a>.&nbsp; <a href="https://arxiv.org/abs/2202.05432"> arXiv:2202.05432</a>.&nbsp; </li>
-   <br>
- <li style="text-align:left">Fully nonlinear gravitational instabilities for expanding Newtonian universes with inhomogeneous pressure and entropy: Beyond the Tolman's solution. 
-         <br /> <b>Physical Review D (PRD)</b>, 2023, 107(12): 123534. <a href="https://link.aps.org/doi/10.1103/PhysRevD.107.123534">DOI: 10.1103/PhysRevD.107.123534</a>.&nbsp; <a href="https://arxiv.org/abs/2210.04657"> arXiv:2210.04657</a>.&nbsp; </li>
- <li style="text-align:left"> Blowups and longtime developments with near-boundary mass accretions of irregularly-shaped Euler-Poisson dominated molecular clouds in astrophysics. 
-         <br /> <b>SIAM Journal on Mathematical Analysis (SIMA)</b>, 2023, 55, 2553-2594, <a href="https://epubs.siam.org/doi/10.1137/22M1469420">DOI: 10.1137/22M1469420</a>.&nbsp; <a href="https://arxiv.org/abs/2102.11550v2">arXiv:2102.11550v2</a>.&nbsp; </li>
- <br>
- <li style="text-align:left">(With Yiqing Shi) Rigorous proof of slightly nonlinear Jeans instability in the expanding Newtonian universe. 
-   <br /> <b>Physical Review D (PRD)</b>, 2022, 105(4): 043519. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043519">DOI: 10.1103/PhysRevD.105.043519</a>.&nbsp; <a href="https://arxiv.org/abs/2201.01199">arXiv:2201.01199</a>.&nbsp; </li>
- <br>
-<li style="text-align:left">(With Changhua Wei) Future stability of the FLRW spacetime for a class of perfect fluids. 
-   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2021, 22(3), 715-770, <a href="https://doi.org/10.1007/s00023-020-00987-1">DOI: 10.1007/s00023-020-00987-1</a>.&nbsp; <a href="https://arxiv.org/abs/1810.11788">arXiv:1810.11788</a>.&nbsp;</li>
-<br>
-<li style="text-align:left">(With Todd A. Oliynyk) Newtonian limits of isolated cosmological systems on long time scales. 
-   <br /><b>Annales Henri Poincaré (AHP)</b>, Springer Nature, 2018, 19, 2157-2243.&nbsp; <a href="https://doi.org/10.1007/s00023-018-0686-2">DOI: 10.1007/s00023-018-0686-2</a>.&nbsp;<a href="https://arxiv.org/abs/1701.03975">arXiv: 1701.03975</a>&nbsp;</li>
-<li style="text-align:left">(With Todd A. Oliynyk) Cosmological Newtonian limits on large spacetime scales.&nbsp;
-   <br /><b>Communications in Mathematical Physics (CMP)</b>; 2018, 364(3) 1195-1304.&nbsp; <a href="https://doi.org/10.1007/s00220-018-3214-9">DOI:10.1007/s00220-018-3214-9</a>.&nbsp;<a href="https://arxiv.org/abs/1711.10896">arXiv:1711.10896</a></li>
-   <br>
-<li style="text-align:left">(With Hongya Gao, Hong Tian) A Generalization of Exponential Class and Its Applications. 
-   <br /> <b>Abstract and Applied Analysis</b>; 2013, Article ID 476309. &nbsp; <a href="https://downloads.hindawi.com/journals/aaa/2013/476309.pdf">DOI:10.1155/2013/476309</a>.&nbsp;<a href="https://arxiv.org/abs/1812.07843">arXiv:1812.07843</a></li>
-<li style="text-align:left">(With Hongya Gao, Hong Tian) Remarks on a Paper by Leonetti and Siepe.  
-   <br /> <b>Journal of Mathematical Analysis and Applications (JMAA)</b>. 2013 (401), 881-887.&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0022247X12010190">DOI:10.1016/j.jmaa.2012.12.037</a>,&nbsp;&nbsp;<a href="https://arxiv.org/abs/1812.07740">arXiv:1812.07740</a></li>
- <br>
-<li style="text-align:left">(With Hongya Gao, Junwei Li) Hölder Continuity and Differentiability Almost Everywhere of (K<sub>1</sub>, K<sub>2</sub> )-Quasiregular Mappings.  
-  <br /> <b>Acta Mathematica Sinica Chinese Series</b>，2012,55(4), 721-726.&nbsp; <a href="http://www.shuxuexuebao.cn/index.php?m=content&c=index&a=show&catid=54&id=874">Journal</a>.&nbsp;<a href="https://arxiv.org/abs/1812.07779">arXiv: 1812.07779</a>&nbsp;</li>
-</ol>
+    <!-- 学术报告 -->
+    <section id="talks">
+      <h2>Talks</h2>
+      <ol>
+        <li>The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations, ``Structures and Dynamics in Cosmology'' Conference, <b>TSIMF</b>, Sanya, 13-17 January, 2025. <a href="https://bimsa.net/bimsavideo.html?id=41879.mp4">Video</a>; <a href="https://bimsa.net/doc/notes/41879.pdf">Slides</a>.</li>
+        <li>The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations, International Conference on Ricci Curvature and Geometric Analysis, <b>Xi'an Jiaotong University</b>, Xi'an, 12-16 August, 2024. <a href="https://github.com/chaoliu2019/documents/blob/main/Xi'anJTUTalk(watermark).pdf">Slides</a>.</li>
+        <li>Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Teachers forum, School of Mathematics and Statistics, <b>Huazhong University of Science and Technology</b>, Wuhan, 25 April, 2024.</li>
+        <li>Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Tianyuan Mathematical Center in Central China, <b>Wuhan University</b>, Wuhan, 1 March, 2024. <a href="https://github.com/chaoliu2019/documents/blob/main/WuhanU%20talk.pdf">Slides</a>.</li>
+        <li>On the nonlinear gravitational instabilities for Newtonian universes, Mathematical Relativity Seminar, <b>Sun Yat-sen University</b>, Guangzhou, 21 May, 2023. <a href="https://github.com/chaoliu2019/documents/blob/main/Sun%20Yat-sen%20talk.pdf">Slides</a>.</li>
+        <li>Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, College of Mathematics and Information Science, <b>Hebei University</b>, Baoding, 10 November, 2022.</li>
+        <li>Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, School of Science, <b>Northwest University</b>, Xi'an, 30 June, 2022.</li>
+        <li>Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, School of Science, <b>Tianjin University of Technology</b>, Tianjin, 20 April, 2022.</li>
+        <li>Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Black Hole Initiative, <b>Harvard University</b>, CMSA General Relativity Seminar, 14 April, 2022. <a href="https://www.youtube.com/watch?v=InmibaWmJxs">Video</a>; <a href="https://github.com/chaoliu2019/documents/blob/c8990a06fc22e90c4d51837946ce8cdd0a60c510/Harvard%20talk%20v2.pdf">Slides</a>.</li>
+        <li>Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>National University of Singapore</b>, Singapore, 28 April, 2021.</li>
+        <li>Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Tianjin University</b>, Tianjin, 23 April, 2021.</li>
+        <li>Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Sichuan Normal University</b>, Chengdu, 15 January, 2021.</li>
+        <li>Blowups and long-time evolution of irregularly-shaped molecular clouds, 2020 Conference on Geometric Analysis and Hyperbolic Equations, <b>Guangxi University</b>, Nanning, 21 December, 2020.</li>
+        <li>Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Hohai University</b>, Nanjing, 24 October, 2020.</li>
+        <li>Mathematical General Relativity and Cosmology, School of Physics, <b>Huazhong University of Science and Technology</b>, Wuhan, 18 September, 2020.</li>
+        <li>Stability of FLRW metric for polytropic (Makino) fluids, <b>Institut Mittag-Leffler</b>, Djursholm, Sweden, 03 December, 2019. <a href="https://github.com/chaoliu2019/documents/blob/main/IML%20talk.pdf">Slides</a>.</li>
+        <li>Cosmological Newtonian limits, Workshop on PDEs and harmonic analysis, <b>Institute of Applied Physics and Computational Mathematics</b>, Beijing, China, 13 July, 2019. <a href="https://github.com/chaoliu2019/documents/blob/main/IAPCM%20Talk.pdf">Slides</a>.</li>
+        <li>How a Star is Born: Makino’s conjecture and freely falling boundary problem, Workshop on PDEs and mathematical physics 2019, <b>Guizhou Minzu University</b>, Guiyang, China, 12 May, 2019.</li>
+        <li>Some aspects of Einstein-Euler equatons, Center for Mathematical Sciences, <b>Huazhong University of Science and Technology</b>, Wuhan, China, 15 December, 2018.</li>
+        <li>FLRW-like cosmology can be approximated by Newtonian universe, Workshop on geometric analysis and hyperbolic equations 2018, <b>University of Chinese Academy of Sciences</b>, Beijing, China, 18 October, 2018.</li>
+        <li>Cosmological global evolutions driven by dark energy--A model described by Einstein-Euler equations, Prof. Tian's seminar, BICMR, <b>Peking University</b>, Beijing, China, 25 September, 2018.</li>
+        <li>Cosmological Newtonian limits, <b>Zhejiang Sci-Tech University</b>, Hangzhou, China, 26 June, 2018.</li>
+        <li>Cosmological Newtonian limits on large scales, BICMR, <b>Peking University</b>, Beijing, China, 27 December, 2017.</li>
+        <li>Cosmological Newtonian limits on large scales, <b>Xiamen University</b>, Xiamen, China, 19 September, 2017.</li>
+        <li>Long time cosmological Newtonian limits, The 60th annual meeting of the AustMS, <b>Australian National University</b>, Canberra, Australia, 7 December, 2016.</li>
+        <li>A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, <b>Monash University</b>, 20 September, 2016.</li>
+        <li>Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, <b>Monash University</b>, 22-26 February, 2016.</li>
+        <li>Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, <b>Tsinghua Sanya International Mathematics Forum</b>, Sanya, Hainan, China，5-9 January, 2016.</li>
+        <li>Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, <b>University of Melbourne</b>, Melbourne, Australia, 9 December, 2014.</li>
+      </ol>
+    </section>
 
-  <h4>Books:&nbsp;</h4>
-<ol><li style="text-align:left">Methods and Ideas in Linear Partial Differential Equations. 
-       <a href="https://github.com/chaoliu2019/documents/blob/PDElec/LinearPDE(Draft)V1_Chao%20Liu.pdf"> Preprint (Draft, 381 pages) </a>.&nbsp; </li>
-  </ol>
-  
-<h4>PhD Thesis:&nbsp;</h4>
-<div>Cosmological Newtonian Limits on Large Scales, Ph.D. Thesis (2018), Monash University, Melbourne, Australia, available on <a href="https://figshare.com/articles/Cosmological_Newtonian_Limits_on_Large_Scales/5903833">figshare</a>, 216 pages.&nbsp;<br>
-</div>
-<div>
- 
-<a name="teachings"></a>
+    <!-- 科研项目与奖学金 -->
+    <section id="grants">
+      <h2>Grants and Fellowships</h2>
+      <ol>
+        <li><b>NSFC General Program‌, No. 12571234</b>, PI, 2026-2029.</li>
+        <li><b>NSFC General Program‌, No. 11971503</b>, Participant, 2020-2023.</li>
+        <li><b>Fundamental Research Funds for the Central Universities, HUST: 2020kfyXJJS037</b>, PI, 2020-2022.</li>
+        <li><b>Mittag-Leffler Fellowship</b>, 2019.</li>
+        <li><b>China Postdoctoral Science Foundation Grant, No. 2018M641054</b>, PI, 2018-2019.</li>
+      </ol>
+    </section>
 
-<h2 style="text-align:left">Teachings</h2>
-<ol><li style="text-align:left"> <b>Equations of Mathematical Physics and Special Functions (MAT0701)</b>: Spring 2020 (<a href="https://mooc1.chaoxing.com/course/206434462.html">Videos</a>), Spring 2021, Spring 2022, Spring 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/234622012.html">Videos</a>); Fall 2023 (<a href="https://mooc1.chaoxing.com/mooc-ans/course/238282947.html">Videos</a>), Spring 2024 (<a href="https://smartcourse.hust.edu.cn/mooc-smartcourse/mooc-ans/course/17310000011561.html">Videos</a>), Spring 2025 (<a href="https://chaoliu2019.github.io/lectures/">Course Website (Notes and Videos)</a>)</li>
- <li style="text-align:left"> <b>Equations of Mathematical Physics (PHY0721)</b>: Spring 2021.
-<li style="text-align:left"> <b>Blowup for Nonlinear Hyperbolic Equations</b>: Fall 2020 (Math Center). 
- <li style="text-align:left">  <b>Minicourse on Sobolev Spaces</b>: Jan. 2020 (Math center), (<a href="https://github.com/chaoliu2019/documents/blob/main/Sobolev.pdf">Notes</a>).
- <li style="text-align:left">  <b>Graduate-Level Independent Study Courses</b>: Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024.</li>
-</div>
-<div>
- 
-<a name="postgraduate students"></a>
+    <!-- 访问经历 -->
+    <section id="visiting">
+      <h2>Visiting Programmes</h2>
+      <ol>
+        <li><b>Institut Mittag-Leffler</b> "GENERAL RELATIVITY, GEOMETRY, AND ANALYSIS: BEYOND THE FIRST 100 YEARS AFTER EINSTEIN", Djursholm, Sweden, September – December 2019.</li>
+        <li><b>Erwin Schrödinger Institute</b> "GEOMETRY AND RELATIVITY PROGRAM ", Vienna, Austria, July – August 2017.</li>
+        <li><b>Institut Henri Poincaré</b> "MATHEMATICAL GENERAL RELATIVITY PROGRAM ", Paris, France, September – November 2015.</li>
+      </ol>
+    </section>
 
-<h2 style="text-align:left">Postgraduate Students</h2>
-<ol>
-<li style="text-align:left">  Yiqing Shi (时昳晴, PhD,2020.09-now). Thesis: <b>The nonlinear Jeans-type instabilities for two
-families of hyperbolic equations (2025)</b>;</li>
-<li style="text-align:left">  Weiqi Ji (纪玮琦, Master, 2022.09-2025,07). Thesis: <b>The nonlinear Jeans-type instabilities for two families of quasilinear wave equations with sources (2025)</b>;</li>
-<li style="text-align:left">  Chihang He (何池航, Master, 2023.09-now);</li> 
-<li style="text-align:left">  Chenxinyu Luo (罗辰新宇, Master, 2023.09-now);</li> 
-<li style="text-align:left">  Xiangcheng Meng (孟祥呈, Master, 2025  .09-now);</li> 
-</div>
-<div>
- 
- 
-<a name="talks"></a>
+    <!-- 相关链接 -->
+    <section id="links">
+      <h2>Links</h2>
+      <ul>
+        <li><a href="http://orcid.org/0000-0002-7559-9447">My ORCID</a></li>
+        <li><a href="https://www.researchgate.net/profile/Chao_Liu80">My Researchgate</a></li>
+        <li><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a></li>
+        <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=T36RJI8AAAAJ&view_op=list_works&sortby=pubdate">My Google Scholar</a></li>
+        <li><a href="https://tianjiaodai369.github.io/">My Wife-Tianjiao Dai</a></li>
+      </ul>
+    </section>
 
-<h2 style="text-align:left">Talks</h2>
-<ol>
-<li style="text-align:left"> The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations, ``Structures and Dynamics in Cosmology'' Conference, <b>TSIMF</b>, Sanya, 13-17, January, 2025.  <a href="https://bimsa.net/bimsavideo.html?id=41879.mp4">Video</a>; <a href="https://bimsa.net/doc/notes/41879.pdf">Slides</a>;</li>
-<li style="text-align:left"> The emergence of nonlinear Jeans-type instabilities for quasilinear wave equations, International Conference on Ricci Curvature and Geometric Analysis, <b>Xi'an Jiaotong University</b>, Xi'an, 12-16, August, 2024. <a href="https://github.com/chaoliu2019/documents/blob/main/Xi'anJTUTalk(watermark).pdf">Slides</a>;</li>
-<li style="text-align:left"> Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Teachers forum, School of Mathematics and Statistics, <b>Huazhong University of Science and Technology</b>, Wuhan, 25, April, 2024;</li>
-<li style="text-align:left"> Future global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Tianyuan Mathematical Center in Central China, <b>Wuhan Unviersity</b>, Wuhan, 1, March, 2024. <a href="https://github.com/chaoliu2019/documents/blob/main/WuhanU%20talk.pdf">Slides</a>;</li>
-<li style="text-align:left"> On the nonlinear gravitational instabilities for Newtonian universes, Mathematical Relativity Seminar, <b>Sun Yat-sen University</b>, Guangzhou, 21, May, 2023. <a href="https://github.com/chaoliu2019/documents/blob/main/Sun%20Yat-sen%20talk.pdf">Slides</a>;</li>
-<li style="text-align:left"> Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, College of Mathematics and Information Science, <b>Hebei Unviersity</b>, Baoding, 10, November, 2022;</li>
-<li style="text-align:left"> Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, School of Science, <b>Northwest Unviersity</b>, Xi'an, 30, June, 2022;</li>
-<li style="text-align:left"> Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, School of Science, <b>Tianjin Unviersity of Technology</b>, Tianjin, 20, April, 2022;</li>
-<li style="text-align:left"> Global existence and stability of de Sitter-like solutions to the Einstein-Yang-Mills equations in spacetime dimensions n ≥ 4, Black Hole Initiative, <b>Harvard University</b>, CMSA General Relativity Seminar, 14, April, 2022, <a href="https://www.youtube.com/watch?v=InmibaWmJxs">Video</a>; <a href="https://github.com/chaoliu2019/documents/blob/c8990a06fc22e90c4d51837946ce8cdd0a60c510/Harvard%20talk%20v2.pdf">Slides</a>;</li>
-<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>National University of Singapore</b>, Singapore, 28, April, 2021;</li>
-<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Tianjin University</b>, Tianjin, 23, April,  2021;</li>
-<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Sichuan Normal University</b>, Chengdu, 15, January, 2021;</li>
-<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, 2020 Conference on Geometric Analysis and Hyperbolic Equations, <b>Guangxi University</b>, Nanning, 21, December, 2020;</li>
-<li style="text-align:left"> Blowups and long-time evolution of irregularly-shaped molecular clouds, <b>Hohai University</b>, Nanjing, 24, October, 2020;</li>
-<li style="text-align:left"> Mathematical General Relativity and Cosmology, School of Physics, <b>Huazhong University of Science and Technology</b>, Wuhan, 18, September, 2020;</li>
-<li style="text-align:left"> Stability of FLRW metric for polytropic (Makino) fluids, <b>Institut Mittag-Leffler</b>, Djursholm, Sweden, 03, December, 2019. <a href="https://github.com/chaoliu2019/documents/blob/main/IML%20talk.pdf">Slides</a>;</li>
-<li style="text-align:left"> Cosmological Newtonian limits, Workshop on PDEs and harmonic analysis, <b>Institute of Applied Physics and Computational Mathematics</b>, Beijing, China, 13th, July, 2019. <a href="https://github.com/chaoliu2019/documents/blob/main/IAPCM%20Talk.pdf">Slides</a>;</li>
-<li style="text-align:left">How a Star is Born: Makino’s conjecture and freely falling boundary problem, Workshop on PDEs and mathematical physics 2019, <b>Guizhou Minzu University</b>, Guiyang, China, 12th, May, 2019;</li>
-<li style="text-align:left">Some aspects of Einstein-Euler equatons, Center for Mathematical Sciences, <b>Huazhong University of Science and Technology</b>, Wuhan, China, 15th, December, 2018;</li>
-<li style="text-align:left">FLRW-like cosmology can be approximated by Newtonian universe, Workshop on geometric analysis and hyperbolic equations 2018, <b>University of Chinese Academy of Sciences</b>, Beijing, China, 18th, October, 2018;&nbsp;</li>
-<li style="text-align:left">Cosmological global evolutions driven by dark energy--A model described by Einstein-Euler equations, Prof. Tian's seminar, BICMR, <b>Peking University</b>, Beijing, China, 25th, September, 2018;</li>
-<li style="text-align:left"><span>Cosmological Newtonian limits, <b>Zhejiang Sci-Tech University</b>, Hangzhou, China, </span><span>26</span><span>th, June, </span><span>2018</span><span>;</span> 
-<br style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px"> </li>
-<li style="text-align:left">Cosmological Newtonian limits on large scales, BICMR, <b>Peking University</b>, Beijing, China, 27th, December, 2017;</li>
-<li style="text-align:left">Cosmological Newtonian limits on large scales, <b>Xiamen University</b>, Xiamen, China, 19th, September, 2017;&nbsp;</li>
-<li style="text-align:left">Long time cosmological Newtonian limits, &nbsp;The 60th annual meeting of the AustMS, <b>Australian National University</b>, Canberra, Australia, 7th, December, 2016.&nbsp;<!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISY29BZzZ1RFhqUFU">Slides.pdf</a>--></li>
-<li style="text-align:left">A time singular symmetric hyperbolic system with a singular parameter, APDEG seminar, Melbourne, Victoria, Australia, <b>Monash University</b>, 20th, September, 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISNGkzSTAxazVmMXM">Manuscript.pdf</a>-->;&nbsp;</li>
-<li style="text-align:left">Long-Time Cosmological Newtonian Limits, Workshop on Analysis, Geometry and Mathematical Relativity, Melbourne, Victoria, Australia, <b>Monash University</b>, 22nd February, 2016 - 26th February, 2016. <!-- <a href="https://drive.google.com/open?id=0B5o-Xm1AWaISMTNUcVhNbldXNG8">Slides.pdf</a>-->;</li>
-<li style="text-align:left">Long Time Existence of Cosmological Newtonian Limits for Einstein-Euler Systems with Positive Cosmological Constant (Conformal Method), Conference in Mathematical General Relativity 2016, <b>Tsinghua Sanya International Mathematics Forum</b>, Sanya, Hainan, China，5th January, 2016 - 9th January, 2016;</li>
-<li style="text-align:left">Long time behavior of the Einstein-Euler system with Newtonian limit, 8th Australia New Zealand Mathematics Convention, <b>University of Melbourne</b>, Melbourne, Australia, 9th December, 2014.</li>
-</div>
-<div>
-
-
-
-
-<a name="grants and fellowships"></a>
-
-<h2 style="text-align:left">Grants and Fellowships</h2>
-<ol>
-<li style="text-align:left">  <b>NSFC General Program‌, No. 12571234, </b> PI, 2026-2029;</li>
-<li style="text-align:left">  <b>NSFC General Program‌, No. 11971503, </b> Participant, 2020-2023;</li>
-<li style="text-align:left">  <b>Fundamental Research Funds for the Central Universities, HUST: 2020kfyXJJS037,</b> PI, 2020-2022;</li>
-<li style="text-align:left">  <b>Mittag-Leffler Fellowship,</b> 2019;</li>
-<li style="text-align:left">  <b>China Postdoctoral Science Foundation Grant, No. 2018M641054,</b> PI, 2018-2019.</li>
-</div>
-<div>
- 
-  
-
-<a name="visiting programmes"></a>
-
-<h2 style="text-align:left">Visiting Programmes</h2>
-<ol>
-<li style="text-align:left">  <b>Institut Mittag-Leffler</b> "GENERAL RELATIVITY, GEOMETRY, AND ANALYSIS: BEYOND THE FIRST 100 YEARS AFTER EINSTEIN", Djursholm, Sweden, September – December 2019;</li>
-<li style="text-align:left">  <b>Erwin Schrödinger Institute</b> "GEOMETRY AND RELATIVITY PROGRAM ", Vienna, Austria, July – August 2017;</li>
-<li style="text-align:left">  <b>Institut Henri Poincaré</b> "MATHEMATICAL GENERAL RELATIVITY PROGRAM ", Paris, France, September – November 2015.</li>
-</div>
-<div>
-
-
-<h2>Links</h2>
-<div><a href="http://orcid.org/0000-0002-7559-9447">My ORCID</a><br>
-</div>
-<div><a href="https://www.researchgate.net/profile/Chao_Liu80">My Researchgate</a><br>
-</div>
-<div><a href="https://arxiv.org/a/liu_c_4.html">My ArXiv</a><br>
-  </div>
-<div><a href="https://scholar.google.com/citations?hl=zh-CN&user=T36RJI8AAAAJ&view_op=list_works&sortby=pubdate">My Google Scholar</a><br>
-</div>
-<div><a href="https://tianjiaodai369.github.io/">My Wife-Tianjiao Dai</a><br>
-</div>
-<div><br>
-</div>
-<div><br>
-</div>
-<div>
-<h2 style="text-align:left"><br>
-</h2>
-</div>
-</div>
-</div>
-</div>
-</div>
+    <!-- 页脚（可选，增加页面完整性） -->
+    <footer>
+      <p>Last updated: [2025-10-19]</p>
+    </footer>
