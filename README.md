@@ -5,4 +5,4 @@ Chao Liu Homepage
 <p align="center">Welcome to Know me</p>
 
 My homepage is here:
-- [Chao Liu homepage](https://[https://chaoliu2019.github.io/]
+- [Chao Liu homepage](https://chaoliu2019.github.io/)
