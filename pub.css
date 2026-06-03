@@ -1,0 +1,12 @@
+.continue-list {
+  list-style: none;
+  padding-left:22px;
+  counter-reset: pub-num;
+}
+.continue-list li {
+  counter-increment: pub-num;
+  margin:8px 0;
+}
+.continue-list li::before {
+  content: counter(pub-num)". ";
+}
