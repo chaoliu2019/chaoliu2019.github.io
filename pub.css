@@ -1,21 +1,33 @@
-/* 给包含所有列表的父容器（比如 body 或 div）重置计数器 */
+/* 1. 给父容器重置计数器 */
 .publication-container {
   counter-reset: my-awesome-counter; 
 }
 
-/* 隐藏原本的序号，改用自定义计数器 */
+/* 2. 列表整体样式：清除默认序号，但保留缩进空间 */
 .publication-container ol {
   list-style-type: none; 
-  padding-left: 0;
+  padding-left: 0;       /* 清除默认内边距 */
+  margin-left: 0;
 }
 
+/* 3. 每个列表项：使用 flex 布局实现“悬挂缩进” */
 .publication-container li {
-  counter-increment: my-awesome-counter; /* 每次遇到 li 计数器 +1 */
-  margin-bottom: 10px;
+  counter-increment: my-awesome-counter;
+  display: flex;          /* 关键：使用 flex 布局 */
+  align-items: flex-start;
+  margin-bottom: 8px;     /* 根据你的页面调整行间距 */
+  line-height: 1.5;       /* 确保行高一致 */
 }
 
+/* 4. 序号样式：模拟浏览器默认对齐 */
 .publication-container li::before {
-  content: counter(my-awesome-counter) ". "; /* 在内容前显示序号 */
-  font-weight: bold;
-  padding-right: 5px;
+  content: counter(my-awesome-counter) ". ";
+  flex-shrink: 0;         /* 防止序号被挤压 */
+  width: 2.2em;           /* 核心：固定序号宽度。如果数字到了三位数(100+)，请调大此值 */
+  text-align: right;      /* 序号右对齐，这是标准列表的习惯 */
+  margin-right: 0.8em;    /* 序号与文字之间的间距 */
+  
+  /* 字体样式：根据截图，序号似乎不需要加粗 */
+  font-weight: normal;    
+  color: #000;            /* 颜色设为黑色 */
 }
