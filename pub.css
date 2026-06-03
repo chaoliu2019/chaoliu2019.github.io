@@ -1,12 +1,21 @@
-.continue-list {
-  list-style: none;
-  padding-left:22px;
-  counter-reset: pub-num;
+/* 给包含所有列表的父容器（比如 body 或 div）重置计数器 */
+.publication-container {
+  counter-reset: my-awesome-counter; 
 }
-.continue-list li {
-  counter-increment: pub-num;
-  margin:8px 0;
+
+/* 隐藏原本的序号，改用自定义计数器 */
+.publication-container ol {
+  list-style-type: none; 
+  padding-left: 0;
 }
-.continue-list li::before {
-  content: counter(pub-num)". ";
+
+.publication-container li {
+  counter-increment: my-awesome-counter; /* 每次遇到 li 计数器 +1 */
+  margin-bottom: 10px;
+}
+
+.publication-container li::before {
+  content: counter(my-awesome-counter) ". "; /* 在内容前显示序号 */
+  font-weight: bold;
+  padding-right: 5px;
 }
