@@ -301,20 +301,24 @@ h1 span {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.9);
   box-shadow: 0 10px 28px rgba(28, 37, 31, 0.06);
+  padding-top: 1rem;
   overflow: hidden;
 }
 
 .side-profile img {
   display: block;
-  width: 100%;
+  width: min(48%, 142px);
   height: auto;
+  margin: 0 auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
   aspect-ratio: 252 / 320;
   object-fit: cover;
 }
 
 .side-profile-body {
   position: relative;
-  padding: 1rem;
+  padding: 0.9rem 1rem 1rem;
   overflow: hidden;
 }
 
@@ -660,15 +664,6 @@ h1 span {
 
   .content {
     margin-left: 0;
-  }
-
-  .side-profile {
-    display: grid;
-    grid-template-columns: minmax(132px, 180px) minmax(0, 1fr);
-  }
-
-  .side-profile img {
-    height: 100%;
   }
 
   .toc {
