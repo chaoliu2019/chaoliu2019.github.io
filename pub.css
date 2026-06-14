@@ -26,7 +26,7 @@ html {
 
 body {
   margin: 0;
-  padding-top: 4.45rem;
+  padding-top: 3.15rem;
   background:
     linear-gradient(90deg, rgba(23, 34, 29, 0.045) 1px, transparent 1px),
     linear-gradient(0deg, rgba(23, 34, 29, 0.035) 1px, transparent 1px),
@@ -79,17 +79,17 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1.5rem;
+  gap: 1rem;
   max-width: var(--page-width);
   margin: 0 auto;
-  padding: 1rem 1.5rem;
+  padding: 0.45rem 1.5rem;
   border-bottom: 1px solid rgba(217, 212, 199, 0.75);
   backdrop-filter: blur(14px);
 }
 
 .brand {
   color: var(--ink);
-  font-size: 1.15rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0;
   text-decoration: none;
@@ -99,15 +99,15 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 .nav-links {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  gap: 0.3rem 1rem;
-  font-size: 0.88rem;
+  gap: 0.2rem 0.78rem;
+  font-size: 0.82rem;
 }
 
 .language-switch {
@@ -124,10 +124,10 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 2rem;
+  width: 1.65rem;
+  height: 1.65rem;
   border-radius: 999px;
-  font-size: 1.16rem;
+  font-size: 1rem;
   line-height: 1;
   text-decoration: none;
 }
@@ -283,10 +283,10 @@ h1 span {
 
 .sidebar {
   position: fixed;
-  top: 6rem;
+  top: 4.55rem;
   left: var(--page-gutter);
   width: var(--sidebar-width);
-  max-height: calc(100vh - 7rem);
+  max-height: calc(100vh - 5.55rem);
   overflow: auto;
   padding-right: 0.15rem;
 }
@@ -444,7 +444,7 @@ h1 span {
 }
 
 .section {
-  scroll-margin-top: 5.6rem;
+  scroll-margin-top: 4.5rem;
   padding: 2rem;
   border: 1px solid var(--line);
   border-radius: 8px;
